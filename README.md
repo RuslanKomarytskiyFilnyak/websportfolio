@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/5afef52e-cc0d-428e-afff-54bdd580758a.jpg" width="180" style="border-radius:50%; border:4px solid #0e75b6; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" alt="Foto de Ruslan Komarytskiy Filnyak">
+  <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/5afef52e-cc0d-428e-afff-54bdd580758a.jpg" width="180" style="border-radius:50%;" alt="Foto de Ruslan Komarytskiy Filnyak">
 </p>
 
-<h1 align="center" style="font-size:2.2em;">¡Hola, soy Ruslan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">¡Hola, soy Ruslan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p align="center" style="font-size:1.1em;">
+<p align="center">
 Frontend Developer | Programador Web | Apasionado por la creación digital
 </p>
 
@@ -20,30 +20,27 @@ Frontend Developer | Programador Web | Apasionado por la creación digital
 
 ---
 
-<div align="center" style="background: #f0f4f8; padding:20px; border-radius:15px;">
-  <p style="font-size:1.1em;">
-    🚀 ¡Gracias por visitar mi perfil de GitHub!  
-    Soy <b>Ruslan Komarytskiy Filnyak</b>, desarrollador frontend con experiencia en <b>React, Next.js, TypeScript y TailwindCSS</b>.  
-    Actualmente trabajo en el proyecto grupal <b>MyPymeApp</b> para la gestión de PYMEs.
-  </p>
-</div>
+## 🚀 Sobre mí
+
+Soy **Ruslan Komarytskiy Filnyak**, desarrollador frontend con experiencia en **React, Next.js, TypeScript y TailwindCSS**.  
+Actualmente trabajo en el proyecto grupal **MyPymeApp** para la gestión de PYMEs.  
 
 ---
 
-<h2>🚀 Proyecto Destacado <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40px"></h2>
+## 🌟 Proyecto Destacado
 
 ### [🔗 MyPymeApp](https://mypymeapp-front.vercel.app)  
 📌 Plataforma web para la gestión de PYMEs  
-💻 Desarrollada con <b>Next.js, TypeScript, TailwindCSS</b>  
+💻 Desarrollada con **Next.js, TypeScript, TailwindCSS**  
 📱 Interfaz responsiva, dashboard y autenticación  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="70%" style="border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" alt="Preview MyPymeApp"/>
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="70%" alt="Preview MyPymeApp">
 </p>
 
 ---
 
-<h2>🛠️ Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h2>
+## 🛠️ Habilidades
 
 <p align="left">
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="React"/>
@@ -56,9 +53,9 @@ Frontend Developer | Programador Web | Apasionado por la creación digital
 
 ---
 
-<h2>📊 Estadísticas <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"></h2>
+## 📊 Estadísticas
 
-<p align="center" style="font-size:1.1em;">
+<p align="center">
 ✨ Commits en 2025: <b>120+</b> <br>
 📂 Repositorios públicos: <b>5</b> <br>
 🚀 Proyecto activo: <b>MyPymeApp</b> <br>
@@ -68,7 +65,7 @@ Frontend Developer | Programador Web | Apasionado por la creación digital
 
 ---
 
-<h2>🤝 Conéctate conmigo <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px"></h2>
+## 🤝 Conéctate conmigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ruslan-komarytskiy-1665011ba/">
@@ -82,6 +79,7 @@ Frontend Developer | Programador Web | Apasionado por la creación digital
 
 ---
 
-<p align="center" style="font-size:1.1em; font-style:italic; margin-top:20px;">
-✨ “La programación no se trata solo de código, sino de crear experiencias que mejoren la vida de las personas.” ✨
+<p align="center">
+✨ _“La programación no se trata solo de código, sino de crear experiencias que mejoren la vida de las personas.”_ ✨
 </p>
+
