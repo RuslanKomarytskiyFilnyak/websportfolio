@@ -82,8 +82,5 @@ Actualmente trabajo en el proyecto grupal **MyPymeApp** para la gestión de PYME
 ## 💻 Frase terminal estilo máquina de escribir
 
 <p align="center">
-<pre style="color:#00FF00; background-color:#000000; padding:10px; border-radius:5px;">
-✨ “La programación no se trata solo de código,
-sino de crear experiencias que mejoren la vida de las personas.” ✨
-</pre>
+  <img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/images/mi-frase.gif" alt="Frase tipo terminal verde" width="600">
 </p>
