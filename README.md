@@ -29,7 +29,7 @@ Actualmente trabajo en el proyecto grupal **MyPymeApp** para la gestión de PYME
 
 ## 🌟 Proyecto Destacado
 
-### [🔗 MyPymeApp](https://mypymeapp-front.vercel.app)  
+### [🔗 MyPymeApp](https://mypymeapp-front.vercel.app/nosotros)  
 📌 Plataforma web para la gestión de PYMEs  
 💻 Desarrollada con **Next.js, TypeScript, TailwindCSS**  
 📱 Interfaz responsiva, dashboard y autenticación  
