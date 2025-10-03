@@ -74,4 +74,4 @@
 ✨ _“La programación no se trata solo de código, sino de crear experiencias que mejoren la vida de las personas.”_ ✨
 
 
-✨ _“La programación no se trata solo de código, sino de crear experiencias que mejoren la vida de las personas.”_ ✨
+
