@@ -7,7 +7,9 @@
 
 ---
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=websportfolio.websportfolio)
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=websportfolio&label=Visitas&color=0e75b6&style=flat)
+
 [![GitHub](https://img.shields.io/github/followers/websportfolio?label=Follow&style=social)](https://github.com/websportfolio)
 
 <div size='20px'>
