@@ -1,12 +1,11 @@
 <p align="center">
-  <img width="200" src="https://github.com/websportfolio/websportfolio/blob/main/5afef52e-cc0d-428e-afff-54bdd580758a.jpg" alt="Foto de Ruslan Komarytskiy Filnyak" style="border-radius:50%;">
+  <img width="200" src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/5afef52e-cc0d-428e-afff-54bdd580758a.jpg" alt="Foto de Ruslan Komarytskiy Filnyak" style="border-radius:50%;">
 </p>
 
 <h1 align="center"> ¡Hola, soy Ruslan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">Frontend Developer | Programador Web | Apasionado por la creación digital</p>
 
 ---
-
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=websportfolio&label=Visitas&color=0e75b6&style=flat)
 
@@ -53,7 +52,7 @@
 📂 Repositorios públicos: <b>5</b> <br>
 🚀 Proyecto activo: <b>MyPymeApp</b> <br>
 📖 Aprendiendo actualmente: <b>Next.js avanzado</b> <br>
-🌱 Objetivo del año: <b>Consolidar mis proyectos en producción</b>
+🌱 Objetivo del año: <b>Consolidar mis proyectos en producción</b>  
 </p>
 
 ---
@@ -73,7 +72,4 @@
 
 <br>
 
-✨ _“La programación no se trata solo de código, sino de crear experiencias que mejoren la vida de las personas.”_ ✨
-
-
-
+✨ _“La programación no se trata solo de código, sino de crear experiencias que mejoren la vida de las personas.”_ ✨  
