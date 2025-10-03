@@ -79,7 +79,7 @@ Actualmente trabajo en el proyecto grupal **MyPymeApp** para la gestión de PYME
 
 ---
 
-## 💻 Frase terminal estilo máquina de escribir
+## 💻 Frase del dia
 
 <p align="center">
 <pre style="color:#00FF00; background-color:#000000; padding:10px; border-radius:5px;">
