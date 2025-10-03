@@ -13,7 +13,7 @@
 <div size='20px'>
   ¡Gracias por visitar mi perfil de GitHub! 🚀  
   Soy **Ruslan Komarytskiy Filnyak**, desarrollador frontend con experiencia en **React, Next.js, TypeScript y TailwindCSS**.  
-  Actualmente trabajo en mi proyecto personal **MyPymeApp** para la gestión de PYMEs.
+  Actualmente trabajo en mi proyecto grupal **MyPymeApp** para la gestión de PYMEs.
 </div>
 
 ---
