@@ -1,64 +1,71 @@
+
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://github.com/TU_USUARIO/TU_REPO/blob/main/5afef52e-cc0d-428e-afff-54bdd580758a.jpg" alt="Foto de Ruslan Komarytskiy Filnyak">
 </p>
 
-<h1> Hola Compañeros < Desarrolladores/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<h1 align="center"> ¡Hola, soy Ruslan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">Frontend Developer | Programador Web | Apasionado por la creación digital</p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ruslankomarytskiy.ruslankomarytskiy)
-[![Github](https://img.shields.io/github/followers/ruslankomarytskiy?label=Follow&style=social)](https://github.com/ruslankomarytskiy)
+---
 
-<div size='20px'> ¡Hola! Mi nombre es **Ruslan Komarytskiy Filnyak**.  
-Soy **Programador Web Frontend**, gracias por tomarte el tiempo de visitar mi perfil en GitHub :smile: 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=RuslanKomarytskiy.RuslanKomarytskiy)
+[![Github](https://img.shields.io/github/followers/TU_USUARIO?label=Follow&style=social)](https://github.com/TU_USUARIO)
+
+<div size='20px'> ¡Gracias por visitar mi perfil de GitHub! 🚀  
+Soy **Ruslan Komarytskiy Filnyak**, desarrollador frontend con experiencia en **React, Next.js, TypeScript y TailwindCSS**.  
+Actualmente trabajo en mi proyecto personal **MyPymeApp** para gestión de pequeñas y medianas empresas.  
 </div>
 
-<h2> Sobre mí <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width = 100px></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h2> 🚀 Proyecto Destacado <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50px"> </h2>
 
-- 🔭 Actualmente trabajando en **MyPymeApp** → [Ver proyecto](https://mypymeapp-front.vercel.app/nosotros)  
-- 🌱 Aprendiendo cada día más sobre **Next.js, Tailwind y TypeScript**  
-- 👯 Buscando colaborar en proyectos frontend y open source  
-- 💬 Pregúntame sobre **JavaScript, React, Next.js**  
-- ⚡ Dato curioso: Me gustan los retos y aprender cosas nuevas 🚀  
+### [🔗 MyPymeApp](https://mypymeapp-front.vercel.app)  
+📌 Plataforma web para la gestión de PYMEs.  
+💻 Desarrollada con **Next.js, TypeScript, TailwindCSS**.  
+📱 Diseño responsivo, dashboard administrativo y autenticación.  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="70%" alt="Preview MyPymeApp"/>
+</p>
 
 ---
 
-<h2> 🚀 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 32px> </h2>
+<h2> 🛠️ Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> </h2>
 
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></a>
-<a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></a>
-
----
-
-<h2> 🌐 Conecta conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<a href = 'https://www.linkedin.com/in/tu-linkedin'> 
-  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
-</a> 
-<a href = 'https://twitter.com/tu-twitter'> 
-  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
-</a> 
-<a href = 'https://github.com/ruslankomarytskiy'> 
-  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-</a>
+<p align="left">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="React"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS"/>
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git"/>
+</p>
 
 ---
 
-[![Ruslan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruslankomarytskiy&theme=tokyonight)](https://git.io/praveenscience)
+<h2> 📊 Estadísticas <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"> </h2>
 
-| ![Ruslan's github stats](https://github-readme-stats.vercel.app/api?username=ruslankomarytskiy&show_icons=true&theme=tokyonight) | ![Ruslan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruslankomarytskiy&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslankomarytskiy&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ruslankomarytskiy&show_icons=true&locale=es&count_private=true&hide_rank=true&custom_title=Mis%20Estadísticas&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-✍️ Última edición: Octubre 2025
+<h2> 🤝 Conéctate conmigo <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px"> </h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+  </a>
+  <a href="https://github.com/TU_USUARIO">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+  </a>
+</p>
+
+---
+
+<br>
+
+✨ _“La programación no se trata solo de código, sino de crear experiencias que mejoren la vida de las personas.”_ ✨
