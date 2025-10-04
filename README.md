@@ -1,6 +1,6 @@
 <!-- Fondo como cabecera -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/A_README.md_file_showcases_Ruslan_Komarytskiy's_Gi.png" width="100%" alt="Fondo Ruslan">
+  <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/fondo.jpg" width="100%" alt="Fondo Ruslan">
 </p>
 
 <h1 align="center">¡Hola, soy Ruslan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
