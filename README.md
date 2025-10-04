@@ -1,12 +1,6 @@
-
 <!-- Fondo como cabecera -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/A_README.md_file_showcases_Ruslan_Komarytskiy's_Gi.png" width="100%" alt="Fondo Ruslan">
-</p>
-
-<!-- Foto centrada sobre el fondo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/5afef52e-cc0d-428e-afff-54bdd580758a.jpg" width="180" alt="Foto de Ruslan" style="border-radius:50%; border:4px solid white; margin-top:-140px;">
 </p>
 
 <h1 align="center">¡Hola, soy Ruslan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
@@ -86,7 +80,7 @@ Actualmente trabajo en el proyecto grupal **MyPymeApp** para la gestión de PYME
 
 ---
 
-## 💻 Frase estilo terminal
+## 💻 Frase del día
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/images/mi-frase.gif" alt="Frase tipo terminal verde" width="600">
