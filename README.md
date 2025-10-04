@@ -1,6 +1,6 @@
 <!-- Fondo como cabecera -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/baner1.jpeg" width="100%" alt="Banner Ruslan">
+  <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/descarga5.jpeg" width="100%" alt="Banner Ruslan">
 </p>
 
 <h1 align="center">¡Hola, soy Ruslan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
