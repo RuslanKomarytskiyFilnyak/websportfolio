@@ -84,4 +84,7 @@ Actualmente trabajo en el proyecto grupal **MyPymeApp** para la gestión de PYME
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/images/mi-frase.gif" alt="Frase tipo terminal verde" width="600">
+  <p align="center">
+  <i>🌐 Dicen que el dinero no da la felicidad, pero sí paga el hosting.</i>
+</p>
 </p>
