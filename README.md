@@ -24,7 +24,6 @@ Frontend Developer | Programador Web | Apasionado por la creación digital
 ## 🚀 Sobre mí
 
 Soy **Ruslan Komarytskiy Filnyak**, desarrollador frontend con experiencia en **React, Next.js, TypeScript y TailwindCSS**.  
-Actualmente trabajo en el proyecto grupal **MyPymeApp** para la gestión de PYMEs.  
 
 ---
 
