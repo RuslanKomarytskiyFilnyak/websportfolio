@@ -62,18 +62,17 @@ Me gusta aprender nuevas tecnologías, mejorar mi código y trabajar en proyecto
 </p>
 
 ---
-
 ## 📊 Estadísticas
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=websportfolio&show_icons=true&theme=tokyonight&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=RuslanKomarytskiyFilnyak&show_icons=true&theme=tokyonight&count_private=true" 
     alt="Estadísticas de GitHub de Ruslan" 
     width="48%"
   />
   &nbsp;
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=websportfolio&theme=tokyonight" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RuslanKomarytskiyFilnyak&theme=tokyonight" 
     alt="Racha de contribuciones" 
     width="48%"
   />
@@ -81,11 +80,12 @@ Me gusta aprender nuevas tecnologías, mejorar mi código y trabajar en proyecto
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=websportfolio&theme=tokyo-night&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RuslanKomarytskiyFilnyak&theme=tokyo-night&hide_border=true" 
     alt="Gráfico de actividad" 
     width="95%"
   />
 </p>
+
 
 ## 🤝 Conéctate conmigo
 
