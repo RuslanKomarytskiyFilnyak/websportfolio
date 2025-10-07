@@ -62,6 +62,19 @@ Me gusta aprender nuevas tecnologías, mejorar mi código y trabajar en proyecto
 </p>
 
 ---
+## 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RuslanKomarytskiyFilnyak&theme=tokyonight&margin-w=10&no-frame=true" alt="Trophies de GitHub"/>
+</p>
+
+<p align="center">
+  🦈 <b>Achievement:</b> Pull Shark  
+  ⚡ <b>Achievement:</b> Quickdraw  
+</p>
+
+---
+
 ## 📊 Estadísticas
 
 <p align="center">
@@ -85,6 +98,26 @@ Me gusta aprender nuevas tecnologías, mejorar mi código y trabajar en proyecto
     width="95%"
   />
 </p>
+
+---
+
+## 💡 Actividad reciente
+
+- 🧩 **43 commits** en el repo [websportfolio](https://github.com/RuslanKomarytskiyFilnyak/websportfolio)  
+- 🚀 Contribuciones en [mypymeapp-front](https://github.com/mypymeapp/mypymeapp-front)  
+- 🛠️ Mejoras en sistema de mensajería y soporte de dark mode  
+- 💬 Creación de un nuevo loader global y ajustes en facturación, clientes e inventario  
+- 🧠 Refactorización de módulos de ventas, proveedores y rutas  
+- 🔧 Últimos detalles visuales y corrección de errores menores  
+
+📅 **52 contribuciones en el último año**
+
+---
+
+<p align="center">
+  <i>"El código habla más fuerte que las palabras."</i> 💻
+</p>
+
 
 
 ## 🤝 Conéctate conmigo
