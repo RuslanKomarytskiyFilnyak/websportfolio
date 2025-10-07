@@ -114,12 +114,6 @@ Me gusta aprender nuevas tecnologías, mejorar mi código y trabajar en proyecto
 
 ---
 
-<p align="center">
-  <i>"El código habla más fuerte que las palabras."</i> 💻
-</p>
-
-
-
 ## 🤝 Conéctate conmigo
 
 <p align="left">
@@ -139,6 +133,9 @@ Me gusta aprender nuevas tecnologías, mejorar mi código y trabajar en proyecto
 <p align="center">
   <img src="https://raw.githubusercontent.com/websportfolio/websportfolio/main/images/mi-frase.gif" alt="Frase tipo terminal verde" width="600">
   <p align="center">
-  <i>🌐 Dicen que el dinero no da la felicidad, pero sí paga el hosting.</i>
+
+  <i>"El código habla más fuerte que las palabras."</i> 💻
 </p>
+
 </p>
+
