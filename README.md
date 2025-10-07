@@ -23,7 +23,17 @@ Frontend Developer | Programador Web | Apasionado por la creación digital
 
 ## 🚀 Sobre mí
 
-Soy **Ruslan Komarytskiy Filnyak**, desarrollador frontend con experiencia en **React, Next.js, TypeScript y TailwindCSS**.  
+Soy Ruslan, desarrollador frontend con experiencia en HTML5, JavaScript, React, Next.js, TypeScript y TailwindCSS.
+
+Me gusta crear interfaces limpias, rápidas y con buen diseño, cuidando cada detalle del código y de la experiencia del usuario.
+
+Trabajo con componentes reutilizables, hooks personalizados, renderizado estático y dinámico en Next.js, y estilos con TailwindCSS para lograr proyectos visualmente consistentes y optimizados.
+
+También tengo experiencia manejando versionado con Git y GitHub, integración con APIs REST, despliegues en Vercel, y diseño UI/UX.
+
+Me gusta aprender nuevas tecnologías, mejorar mi código y trabajar en proyectos que me reten.
+
+☕ Amante del café, del código limpio y de ver cómo una idea se convierte en algo real. 
 
 ---
 
