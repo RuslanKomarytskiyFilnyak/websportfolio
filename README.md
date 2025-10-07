@@ -66,14 +66,26 @@ Me gusta aprender nuevas tecnologías, mejorar mi código y trabajar en proyecto
 ## 📊 Estadísticas
 
 <p align="center">
-✨ Commits en 2025: <b>120+</b> <br>
-📂 Repositorios públicos: <b>5</b> <br>
-🚀 Proyecto activo: <b>MyPymeApp</b> <br>
-📖 Aprendiendo actualmente: <b>Next.js avanzado</b> <br>
-🌱 Objetivo del año: <b>Consolidar mis proyectos en producción</b>  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=websportfolio&show_icons=true&theme=tokyonight&count_private=true" 
+    alt="Estadísticas de GitHub de Ruslan" 
+    width="48%"
+  />
+  &nbsp;
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=websportfolio&theme=tokyonight" 
+    alt="Racha de contribuciones" 
+    width="48%"
+  />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=websportfolio&theme=tokyo-night&hide_border=true" 
+    alt="Gráfico de actividad" 
+    width="95%"
+  />
+</p>
 
 ## 🤝 Conéctate conmigo
 
